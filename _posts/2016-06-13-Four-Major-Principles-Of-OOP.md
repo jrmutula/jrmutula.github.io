@@ -6,6 +6,7 @@ layout: post
 The Objects Oriented Programming (OOP) is constructed over four major principles:
 Encapsulation, Data Abstraction, Polymorphism and Inheritance.
 
+
 ##1. Encapsulation
 
 Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition. Typically, only the object’s own methods can directly inspect or manipulate its fields.
@@ -20,6 +21,7 @@ Hiding the internals of the object protects its integrity by preventing users fr
 
 A benefit of encapsulation is that it can reduce system complexity.
 
+
 ##2. Abstraction
 
 Data abstraction and encapuslation are closely tied together, because a simple definition of data abstraction is the development of classes, objects, types in terms of their interfaces and functionality, instead of their implementation details. Abstraction denotes a model, a view, or some other focused representation for an actual item.
@@ -27,6 +29,7 @@ Data abstraction and encapuslation are closely tied together, because a simple d
 “An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of object and thus provide crisply defined conceptual boundaries, relative to the perspective of the viewer.” — G. Booch
 
 In short, data abstraction is nothing more than the implementation of an object that contains the same essential properties and actions we can find in the original object we are representing.
+
 
 ##3. Polymorphism
 
@@ -36,6 +39,7 @@ There are 2 basic types of polymorphism.
 Overridding, also called run-time polymorphism. For method overloading, the compiler determines which method will be executed, and this decision is made when the code gets compiled.
 
 Overloading, which is referred to as compile-time polymorphism. Method will be used for method overriding is determined at runtime based on the dynamic type of an object.
+
 
 ##4. Inheritance
 
