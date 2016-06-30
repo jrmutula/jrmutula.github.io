@@ -7,7 +7,7 @@ The Objects Oriented Programming (OOP) is constructed over four major principles
 Encapsulation, Data Abstraction, Polymorphism and Inheritance.
 
 
-##1.Encapsulation
+##1. Encapsulation
 
 Encapsulation means that the internal representation of an object is generally hidden from view outside of the object’s definition. Typically, only the object’s own methods can directly inspect or manipulate its fields.
 
